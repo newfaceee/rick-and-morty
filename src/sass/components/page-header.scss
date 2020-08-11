@@ -1,0 +1,9 @@
+.page-header {
+  background-color: $color-primary;
+
+  &__wrapper {
+    box-sizing: border-box;
+    padding-left: 70px;
+    padding-right: 70px;
+  }
+}
